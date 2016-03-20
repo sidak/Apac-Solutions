@@ -32,8 +32,11 @@ int main(){
 			out.precision(9);
 			out<<fixed<<ans<<endl; 
 			
-			// This following alone won't work
-			//out<<setprecision(9)<<endl;
+			// This following will also work
+			//out<<setprecision(9)<<fixed<<ans<<endl;
+			
+			// Without the fixed keyword, precision starts at the beginning of the number. With the fixed keyword, it starts
+			// after the decimal point
 		}
 	}
 }
