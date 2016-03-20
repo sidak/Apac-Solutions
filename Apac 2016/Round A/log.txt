@@ -1,0 +1,2548 @@
+pre[j] at j= 1 is 5
+pre[j] at j= 2 is 4320852505
+pre[j] at j= 3 is 264268277940213215
+pre[j] at j= 4 is 528536555880426430
+pre[j] at j= 5 is -6328377989447983282
+prod is 15324448
+req is 786.474
+num is 3
+prod is 15324448
+req is 9.10091e-07
+num is 2
+prod is 15324448
+req is 0.00354663
+num is 3
+prod is 15324448
+req is 1.53244e+07
+num is 5
+prod is 15324448
+req is 0.199999
+num is 2
+prod is 15324448
+req is 0.200001
+num is 1
+prod is 15324448
+req is 786.474
+num is 3
+prod is 15324448
+req is 786.474
+num is 3
+prod is 15324448
+req is 5.79882e-11
+num is 2
+pre[j] at j= 1 is 1
+pre[j] at j= 2 is 635613250
+pre[j] at j= 3 is 30743977289250
+pre[j] at j= 4 is 215207841024750
+pre[j] at j= 5 is 1235938631005139250
+pre[j] at j= 6 is -6087357763658159116
+pre[j] at j= 7 is -5533345415452936312
+pre[j] at j= 8 is -1602617932557101136
+pre[j] at j= 9 is -8381598841747925248
+prod is 15324600
+req is -1.75988e-11
+num is 2
+prod is 15324600
+req is -8.60096e-12
+num is 2
+prod is 15324600
+req is 1.08895e-07
+num is 6
+prod is 15324600
+req is 1.08895e-07
+num is 3
+prod is 15324600
+req is 1.53246e+07
+num is 9
+prod is 15324600
+req is 0.0241099
+num is 7
+prod is 15324600
+req is -1.23192e-10
+num is 4
+prod is 15324600
+req is -2.51745e-12
+num is 3
+prod is 15324600
+req is 1.08895e-07
+num is 5
+pre[j] at j= 1 is 931411782
+pre[j] at j= 2 is 38281024240200
+pre[j] at j= 3 is 3741702152309868600
+pre[j] at j= 4 is 4075375148628833336
+pre[j] at j= 5 is 3860263338869230128
+pre[j] at j= 6 is -8009050861006456976
+pre[j] at j= 7 is 8532657414848781392
+pre[j] at j= 8 is -1381429244011988832
+pre[j] at j= 9 is -8288575464071932992
+prod is 15324600
+req is 1.00001
+num is 2
+prod is 15324600
+req is 4.09562e-12
+num is 6
+prod is 15324600
+req is 4.28195e-12
+num is 2
+prod is 15324600
+req is -1.68585e-12
+num is 2
+prod is 15324600
+req is 3.25029e-12
+num is 3
+prod is 15324600
+req is 4.275e-12
+num is 4
+prod is 15324600
+req is -2.4972e-12
+num is 3
+prod is 15324600
+req is 2.55176e-12
+num is 4
+prod is 15324600
+req is 3.96983e-12
+num is 4
+prod is 15324600
+req is 1.79599e-12
+num is 2
+pre[j] at j= 1 is 1
+pre[j] at j= 2 is 23682
+pre[j] at j= 3 is 1634031334068
+pre[j] at j= 4 is 4218797242693099752
+pre[j] at j= 5 is 5347814593516884840
+prod is 15324448
+req is 1.53244e+07
+num is 5
+prod is 15324448
+req is 1
+num is 2
+prod is 15324448
+req is 1
+num is 2
+prod is 15324448
+req is 0.00793463
+num is 2
+prod is 15324448
+req is 647.093
+num is 3
+prod is 15324448
+req is 0.999997
+num is 2
+prod is 15324448
+req is 187.908
+num is 3
+prod is 15324448
+req is 647.093
+num is 3
+pre[j] at j= 1 is 906401410
+pre[j] at j= 2 is 22580271925920
+pre[j] at j= 3 is 2256153030022148640
+pre[j] at j= 4 is -6803010768490576864
+pre[j] at j= 5 is 9041157695816620480
+pre[j] at j= 6 is 9041157695816620480
+pre[j] at j= 7 is 4162965060365272256
+prod is 4201006
+req is inf
+num is 4
+prod is 4201006
+req is 8.68791e-12
+num is 5
+prod is 4201006
+req is inf
+num is 1
+pre[j] at j= 1 is 10
+pre[j] at j= 2 is 2381380500
+pre[j] at j= 3 is 1732376111595760500
+pre[j] at j= 4 is 8459784768822175228
+pre[j] at j= 5 is 1639839767141060284
+pre[j] at j= 6 is 8635241929029883976
+pre[j] at j= 7 is -2352520431299567328
+pre[j] at j= 8 is 8049405372017962368
+pre[j] at j= 9 is -37144393398908416
+pre[j] at j= 10 is -4262205592571243520
+prod is 140728761662464
+req is 1.00776
+num is 2
+prod is 140728761662464
+req is 3.96257e-05
+num is 2
+prod is 140728761662464
+req is 1.75911e+13
+num is 5
+prod is 140728761662464
+req is inf
+num is 2
+prod is 140728761662464
+req is 1
+num is 3
+prod is 140728761662464
+req is 7386.93
+num is 3
+prod is 140728761662464
+req is 0.100776
+num is 1
+prod is 140728761662464
+req is 0.1
+num is 2
+prod is 140728761662464
+req is 1.40729e+14
+num is 10
+prod is 140728761662464
+req is 2.09131e-05
+num is 4
+pre[j] at j= 1 is 82173
+pre[j] at j= 2 is 182917098
+pre[j] at j= 3 is 7307161072961022
+pre[j] at j= 4 is -4009782314685808508
+pre[j] at j= 5 is 4815229629932635168
+pre[j] at j= 6 is 356899800713219104
+pre[j] at j= 7 is 3568998007132191040
+pre[j] at j= 8 is 7171320351289292672
+pre[j] at j= 9 is -5289434069453609856
+pre[j] at j= 10 is -1240476229400873728
+prod is 140728761662464
+req is -2.04469e-05
+num is 2
+prod is 140728761662464
+req is -1.5537e-05
+num is 4
+prod is 140728761662464
+req is 0.000394309
+num is 4
+prod is 140728761662464
+req is 9.18319e+06
+num is 4
+prod is 140728761662464
+req is 3.06341e-05
+num is 2
+prod is 140728761662464
+req is 1.84708e-05
+num is 6
+prod is 140728761662464
+req is 769358
+num is 8
+prod is 140728761662464
+req is 41.1114
+num is 7
+pre[j] at j= 1 is 19191
+pre[j] at j= 2 is 95955
+pre[j] at j= 3 is 7201806570
+prod is 11
+req is 0.000573185
+num is 2
+prod is 11
+req is 11
+num is 3
+pre[j] at j= 1 is 1000000000
+prod is 4200642
+req is 4.20064e+06
+num is 1
+pre[j] at j= 1 is 7
+pre[j] at j= 2 is 63
+pre[j] at j= 3 is 6046236
+pre[j] at j= 4 is 182983286304
+pre[j] at j= 5 is -1367605999474565888
+pre[j] at j= 6 is 8432159925216514048
+pre[j] at j= 7 is -7547357037821378560
+pre[j] at j= 8 is 375359386150535168
+pre[j] at j= 9 is -5327749495113416704
+pre[j] at j= 10 is -5735335449297321984
+prod is 140728761662464
+req is 0.142857
+num is 5
+prod is 140728761662464
+req is 1.07658e+06
+num is 9
+prod is 140728761662464
+req is 2.51301e+12
+num is 4
+prod is 140728761662464
+req is -1.86461e-05
+num is 3
+prod is 140728761662464
+req is 9.18319e+06
+num is 4
+prod is 140728761662464
+req is 0.015873
+num is 4
+prod is 140728761662464
+req is inf
+num is 4
+prod is 140728761662464
+req is 2.23379e+12
+num is 8
+prod is 140728761662464
+req is 17088.6
+num is 7
+prod is 140728761662464
+req is inf
+num is 2
+pre[j] at j= 1 is 1000000000
+pre[j] at j= 2 is 32767000000000
+pre[j] at j= 3 is 32767000000000
+prod is 11
+req is 11
+num is 2
+prod is 11
+req is 1.1e-08
+num is 2
+prod is 11
+req is 3.35704e-13
+num is 1
+pre[j] at j= 1 is 4
+pre[j] at j= 2 is 2404161572
+pre[j] at j= 3 is 51626965597128
+pre[j] at j= 4 is 361388759179896
+pre[j] at j= 5 is 1245345664133921616
+pre[j] at j= 6 is 8717419648937451312
+pre[j] at j= 7 is 7705514873102802320
+pre[j] at j= 8 is -7558726156896788144
+pre[j] at j= 9 is -6802657492780589200
+pre[j] at j= 10 is -2468484243559080032
+prod is 140728761662464
+req is -1.86181e-05
+num is 2
+prod is 140728761662464
+req is 0.25
+num is 2
+prod is 140728761662464
+req is 1
+num is 6
+prod is 140728761662464
+req is 0.25
+num is 5
+prod is 140728761662464
+req is inf
+num is 7
+prod is 140728761662464
+req is inf
+num is 2
+prod is 140728761662464
+req is 2.0222e-05
+num is 2
+prod is 140728761662464
+req is 58535.5
+num is 8
+prod is 140728761662464
+req is 6.06659e-05
+num is 3
+prod is 140728761662464
+req is 2.72588
+num is 7
+pre[j] at j= 1 is 9
+pre[j] at j= 2 is 72
+pre[j] at j= 3 is 504
+pre[j] at j= 4 is 265432428072
+pre[j] at j= 5 is 1005744629408088304
+pre[j] at j= 6 is -4498948146122188032
+prod is 140728761662376
+req is 1
+num is 1
+prod is 140728761662376
+req is 1.95457e+12
+num is 4
+prod is 140728761662376
+req is 1.95457e+12
+num is 4
+pre[j] at j= 1 is 10
+pre[j] at j= 2 is 7346119470
+pre[j] at j= 3 is 7241826633922768410
+pre[j] at j= 4 is -6517543158456844962
+pre[j] at j= 5 is 686777620553450042
+pre[j] at j= 6 is 957157477570362560
+pre[j] at j= 7 is -152726117313483328
+pre[j] at j= 8 is -1221808938507866624
+pre[j] at j= 9 is -5174251639929626112
+prod is 15324600
+req is 2.89768e-12
+num is 2
+prod is 15324600
+req is 1.08895e-07
+num is 6
+prod is 15324600
+req is 4.52609e-12
+num is 6
+prod is 15324600
+req is -2.55787e-12
+num is 4
+prod is 15324600
+req is 4.96502e-10
+num is 3
+prod is 15324600
+req is -2.6327e-11
+num is 4
+prod is 15324600
+req is -2.35128e-12
+num is 5
+prod is 15324600
+req is 1.53246e+06
+num is 8
+pre[j] at j= 1 is 622161893
+pre[j] at j= 2 is 2488647572
+pre[j] at j= 3 is 2488647572
+pre[j] at j= 4 is 14931885432
+pre[j] at j= 5 is 252901582471950912
+prod is 15324448
+req is 1.45427e-09
+num is 3
+prod is 15324448
+req is 0.999997
+num is 3
+prod is 15324448
+req is 0.024631
+num is 4
+prod is 15324448
+req is 1.6073e-09
+num is 1
+prod is 15324448
+req is 1.53244e+07
+num is 5
+prod is 15324448
+req is 3.63567e-10
+num is 2
+prod is 15324448
+req is 0.90479
+num is 4
+pre[j] at j= 1 is 42214
+pre[j] at j= 2 is 126642
+pre[j] at j= 3 is 2876293104
+pre[j] at j= 4 is 54325002309558432
+pre[j] at j= 5 is 271625011547792160
+pre[j] at j= 6 is 1358125057738960800
+pre[j] at j= 7 is -5694064767514418688
+pre[j] at j= 8 is -9185402454427719680
+prod is 4201006
+req is -7.48106e-13
+num is 1
+prod is 4201006
+req is 33.1723
+num is 6
+prod is 4201006
+req is 7.07154e-13
+num is 4
+prod is 4201006
+req is 9.04485e-08
+num is 4
+prod is 4201006
+req is 1.94929e-12
+num is 2
+prod is 4201006
+req is 260.156
+num is 7
+prod is 4201006
+req is 4.20101e+06
+num is 8
+pre[j] at j= 1 is 15550
+pre[j] at j= 2 is 1075562400
+pre[j] at j= 3 is 2151124800
+pre[j] at j= 4 is 12906748800
+pre[j] at j= 5 is 5988497495471251200
+pre[j] at j= 6 is -6469749082767049216
+pre[j] at j= 7 is 4480047961269021696
+pre[j] at j= 8 is -5402572757696540672
+prod is 4201006
+req is 2.18577e-11
+num is 5
+prod is 4201006
+req is inf
+num is 3
+prod is 4201006
+req is -9.57449e-13
+num is 2
+prod is 4201006
+req is 1.51185e-06
+num is 6
+prod is 4201006
+req is 1.91973e-12
+num is 4
+prod is 4201006
+req is 270.161
+num is 7
+prod is 4201006
+req is 4.20101e+06
+num is 8
+prod is 4201006
+req is 5.97624e-13
+num is 3
+prod is 4201006
+req is 0.274137
+num is 6
+pre[j] at j= 1 is 880878857
+pre[j] at j= 2 is 77061044168074
+pre[j] at j= 3 is 4032373258182808198
+pre[j] at j= 4 is 8865073658416478094
+pre[j] at j= 5 is 5998686630910096382
+pre[j] at j= 6 is -5130807176994299438
+pre[j] at j= 7 is 8185129719720952740
+pre[j] at j= 8 is -7112744168149459692
+pre[j] at j= 9 is -7112744168149459692
+pre[j] at j= 10 is 3184717843764056292
+prod is 140728761662464
+req is inf
+num is 7
+prod is 140728761662464
+req is 2.34599e-05
+num is 5
+prod is 140728761662464
+req is 1.75911e+13
+num is 5
+prod is 140728761662464
+req is 2.34599e-05
+num is 5
+prod is 140728761662464
+req is 2.57643e-05
+num is 4
+prod is 140728761662464
+req is 3.1374e-05
+num is 4
+prod is 140728761662464
+req is 1.8262
+num is 8
+prod is 140728761662464
+req is 0.000416287
+num is 2
+prod is 140728761662464
+req is 0.000416287
+num is 2
+prod is 140728761662464
+req is -4.90962e-05
+num is 1
+pre[j] at j= 1 is 98587
+pre[j] at j= 2 is 394348
+pre[j] at j= 3 is 8457975904
+pre[j] at j= 4 is 542596070193408
+pre[j] at j= 5 is 1085192140386816
+pre[j] at j= 6 is -2013890159328591872
+pre[j] at j= 7 is -2208240278030450688
+pre[j] at j= 8 is -4416480556060901376
+pre[j] at j= 9 is 1561643698931892224
+pre[j] at j= 10 is 5206193826392178688
+prod is 140728761662464
+req is 3.26231e-05
+num is 3
+prod is 140728761662464
+req is 0.627177
+num is 7
+prod is 140728761662464
+req is 1.40729e+14
+num is 10
+prod is 140728761662464
+req is 2.92417e-05
+num is 6
+prod is 140728761662464
+req is 4.4608e+07
+num is 3
+prod is 140728761662464
+req is 3.56864e+08
+num is 8
+prod is 140728761662464
+req is -3.07757e-05
+num is 5
+prod is 140728761662464
+req is -0.000484848
+num is 2
+pre[j] at j= 1 is 895657175
+pre[j] at j= 2 is 3582628700
+pre[j] at j= 3 is 72422839170500
+pre[j] at j= 4 is 4517548842725584092
+pre[j] at j= 5 is 8191091052237077724
+pre[j] at j= 6 is 1932182525630701800
+pre[j] at j= 7 is -6202117161570106440
+pre[j] at j= 8 is -6521331983571641848
+prod is 4201006
+req is -8.53609e-13
+num is 1
+prod is 4201006
+req is -2.23798e-12
+num is 4
+prod is 4201006
+req is 2.98518e-08
+num is 5
+prod is 4201006
+req is 0.999761
+num is 3
+pre[j] at j= 1 is 372788491
+pre[j] at j= 2 is 173538973252603319
+pre[j] at j= 3 is 2309380645432529409
+pre[j] at j= 4 is -8971562668734149746
+pre[j] at j= 5 is -4970418197129151636
+pre[j] at j= 6 is -8414676062548844152
+pre[j] at j= 7 is -6207370406529511856
+pre[j] at j= 8 is -6733471844166463712
+pre[j] at j= 9 is 4979800385376624192
+prod is 15324600
+req is 4.41532e-11
+num is 6
+prod is 15324600
+req is 7.6623e+06
+num is 8
+prod is 15324600
+req is 9.47488e-12
+num is 2
+pre[j] at j= 1 is 29418
+pre[j] at j= 2 is 176508
+pre[j] at j= 3 is 9438588792
+pre[j] at j= 4 is 637416216890136
+prod is 140728761662464
+req is 7.97294e+08
+num is 2
+prod is 140728761662464
+req is 11806
+num is 1
+prod is 140728761662464
+req is 2.08385e+09
+num is 3
+prod is 140728761662464
+req is inf
+num is 2
+prod is 140728761662464
+req is 14909.9
+num is 1
+prod is 140728761662464
+req is inf
+num is 2
+pre[j] at j= 1 is 7
+pre[j] at j= 2 is 6724604110
+pre[j] at j= 3 is 488676980673700
+pre[j] at j= 4 is 1954707922694800
+pre[j] at j= 5 is -2560408989295156992
+pre[j] at j= 6 is -7719730544791351296
+pre[j] at j= 7 is -6417612137202155520
+pre[j] at j= 8 is -7223704475099070464
+pre[j] at j= 9 is -7223704475099070464
+pre[j] at j= 10 is -7081722362934984704
+prod is 140728761662464
+req is 1.75911e+13
+num is 5
+prod is 140728761662464
+req is 3.51365e-05
+num is 5
+prod is 140728761662464
+req is -2.19285e-05
+num is 3
+prod is 140728761662464
+req is -2.28059e-05
+num is 2
+prod is 140728761662464
+req is 1
+num is 6
+prod is 140728761662464
+req is inf
+num is 4
+prod is 140728761662464
+req is 0.142857
+num is 5
+prod is 140728761662464
+req is 1.60076e-05
+num is 1
+prod is 140728761662464
+req is 1
+num is 3
+prod is 140728761662464
+req is inf
+num is 3
+pre[j] at j= 1 is 5
+pre[j] at j= 2 is 1254807130
+pre[j] at j= 3 is 11293264170
+pre[j] at j= 4 is 209027026522530
+pre[j] at j= 5 is 1045135132612650
+pre[j] at j= 6 is 2090270265225300
+pre[j] at j= 7 is 2425338665474718772
+pre[j] at j= 8 is 3381303915562917332
+pre[j] at j= 9 is -351879148211514276
+prod is 15324600
+req is 2.90671e-09
+num is 3
+prod is 15324600
+req is 3.06492e+06
+num is 8
+prod is 15324600
+req is 6.31854e-12
+num is 2
+prod is 15324600
+req is 3.64736
+num is 5
+prod is 15324600
+req is 2.17789e-08
+num is 2
+prod is 15324600
+req is 1.95315e-12
+num is 3
+pre[j] at j= 1 is 5
+pre[j] at j= 2 is 30
+pre[j] at j= 3 is 240
+pre[j] at j= 4 is 960
+pre[j] at j= 5 is 29557440
+pre[j] at j= 6 is 29023517773388160
+pre[j] at j= 7 is -7442892901953460352
+pre[j] at j= 8 is 6800940177257063296
+prod is 4201006
+req is 0.0157922
+num is 2
+prod is 4201006
+req is 0.999761
+num is 3
+prod is 4201006
+req is 4376.05
+num is 4
+prod is 4201006
+req is 2.98518e-08
+num is 5
+prod is 4201006
+req is 9.9506e-10
+num is 3
+prod is 4201006
+req is 0.199952
+num is 2
+prod is 4201006
+req is 0.14213
+num is 3
+pre[j] at j= 1 is 68857
+pre[j] at j= 2 is 765896411
+pre[j] at j= 3 is 2297689233
+pre[j] at j= 4 is 1217762699855313927
+pre[j] at j= 5 is 6370321527793455357
+pre[j] at j= 6 is -2739199208605465388
+pre[j] at j= 7 is 8750439034419814412
+pre[j] at j= 8 is -7230597605974203560
+pre[j] at j= 9 is 4726048979309229928
+pre[j] at j= 10 is 6296303607251786584
+prod is 140728761662464
+req is inf
+num is 3
+prod is 140728761662464
+req is 6.93751e-05
+num is 6
+prod is 140728761662464
+req is 2.04378e+09
+num is 9
+prod is 140728761662464
+req is 0.000124856
+num is 4
+prod is 140728761662464
+req is -1.68417e-05
+num is 2
+prod is 140728761662464
+req is inf
+num is 5
+prod is 140728761662464
+req is -0.000209374
+num is 4
+prod is 140728761662464
+req is 9.18319e+06
+num is 4
+prod is 140728761662464
+req is -1.60712e-05
+num is 5
+prod is 140728761662464
+req is -0.000209374
+num is 4
+pre[j] at j= 1 is 8
+pre[j] at j= 2 is 72
+pre[j] at j= 3 is 432
+pre[j] at j= 4 is 478224
+pre[j] at j= 5 is 3347568
+pre[j] at j= 6 is 315806217552
+pre[j] at j= 7 is 15911264658922416
+pre[j] at j= 8 is 3717647596169373872
+pre[j] at j= 9 is 8905091986118609408
+pre[j] at j= 10 is 1276583261774209536
+prod is 140728761662464
+req is 0.00231481
+num is 3
+prod is 140728761662464
+req is inf
+num is 8
+prod is 140728761662464
+req is 2.44321e+11
+num is 3
+prod is 140728761662464
+req is 127544
+num is 2
+prod is 140728761662464
+req is 0.125
+num is 5
+prod is 140728761662464
+req is 70.0316
+num is 3
+prod is 140728761662464
+req is 4.84379e-05
+num is 3
+prod is 140728761662464
+req is 1.00776
+num is 2
+prod is 140728761662464
+req is inf
+num is 6
+prod is 140728761662464
+req is 0.414389
+num is 5
+pre[j] at j= 1 is 1
+pre[j] at j= 2 is 58481
+pre[j] at j= 3 is 15199512141454
+pre[j] at j= 4 is 7104365552972084806
+pre[j] at j= 5 is -1371660382558679202
+pre[j] at j= 6 is 1822197245262255362
+prod is 140728761662376
+req is 1.40729e+14
+num is 5
+prod is 140728761662376
+req is 9.18326e+06
+num is 1
+prod is 140728761662376
+req is 48.7439
+num is 3
+prod is 140728761662376
+req is 48.7439
+num is 3
+prod is 140728761662376
+req is 1.40729e+14
+num is 5
+prod is 140728761662376
+req is 1.40729e+14
+num is 5
+prod is 140728761662376
+req is 9.25877
+num is 3
+prod is 140728761662376
+req is 9.25877
+num is 3
+prod is 140728761662376
+req is 48.7439
+num is 3
+prod is 140728761662376
+req is -2.36803e-05
+num is 2
+pre[j] at j= 1 is 498888828
+pre[j] at j= 2 is 4489999452
+prod is 4200642
+req is 0.00842
+num is 1
+prod is 4200642
+req is 4.20064e+06
+num is 2
+prod is 4200642
+req is 0.00842
+num is 1
+pre[j] at j= 1 is 4
+pre[j] at j= 2 is 3618470064
+pre[j] at j= 3 is 13854007386276288
+pre[j] at j= 4 is 69270036931381440
+pre[j] at j= 5 is 6425990111608985152
+pre[j] at j= 6 is -5176195505043813952
+pre[j] at j= 7 is 8754472675734329280
+pre[j] at j= 8 is -3751194888963572224
+pre[j] at j= 9 is -5152728360571970048
+pre[j] at j= 10 is 824389623415312896
+prod is 140728761662464
+req is -3.06879e-05
+num is 2
+prod is 140728761662464
+req is 9.18319e+06
+num is 4
+prod is 140728761662464
+req is inf
+num is 7
+prod is 140728761662464
+req is 5.02603e+12
+num is 8
+prod is 140728761662464
+req is 3.34908e+07
+num is 7
+prod is 140728761662464
+req is 38891.8
+num is 8
+prod is 140728761662464
+req is 2.18999e-05
+num is 5
+pre[j] at j= 1 is 25890
+prod is 4200642
+req is 4.20064e+06
+num is 1
+prod is 4200642
+req is 4.20064e+06
+num is 1
+prod is 4200642
+req is 4.20064e+06
+num is 1
+prod is 4200642
+req is 4.20064e+06
+num is 1
+prod is 4200642
+req is 4.20064e+06
+num is 1
+prod is 4200642
+req is 4.20064e+06
+num is 1
+prod is 4200642
+req is 4.20064e+06
+num is 1
+prod is 4200642
+req is 4.20064e+06
+num is 1
+prod is 4200642
+req is 4.20064e+06
+num is 1
+pre[j] at j= 1 is 315530706
+pre[j] at j= 2 is 11703349416246
+pre[j] at j= 3 is 1088458309108542984
+pre[j] at j= 4 is 5442291545542714920
+pre[j] at j= 5 is 2937254183157092088
+pre[j] at j= 6 is 6805804135461074168
+pre[j] at j= 7 is -5728934940227464784
+pre[j] at j= 8 is -8170126659280411888
+pre[j] at j= 9 is -3957145148982956208
+pre[j] at j= 10 is 3615178519501973776
+prod is 140728761662464
+req is 3.34908e+07
+num is 7
+prod is 140728761662464
+req is 283429
+num is 9
+prod is 140728761662464
+req is 1.50308
+num is 3
+prod is 140728761662464
+req is 0.000898261
+num is 8
+prod is 140728761662464
+req is 2.06778e-05
+num is 4
+prod is 140728761662464
+req is 1.75911e+13
+num is 1
+pre[j] at j= 1 is 62969839
+pre[j] at j= 2 is 629698390
+pre[j] at j= 3 is 4407888730
+pre[j] at j= 4 is 3442215025970030240
+pre[j] at j= 5 is 7735234273874049728
+pre[j] at j= 6 is 5017637974148115200
+pre[j] at j= 7 is -1327895832558822656
+pre[j] at j= 8 is -7967374995352935936
+pre[j] at j= 9 is -8992069664782467584
+prod is 15324600
+req is -3.23447e-12
+num is 3
+pre[j] at j= 1 is 664402754
+pre[j] at j= 2 is 503950411764425306
+prod is 4200642
+req is 0.00553808
+num is 1
+prod is 4200642
+req is 0.00632243
+num is 1
+prod is 4200642
+req is 4.20064e+06
+num is 2
+prod is 4200642
+req is 4.20064e+06
+num is 2
+prod is 4200642
+req is 0.00553808
+num is 1
+prod is 4200642
+req is 0.00632243
+num is 1
+prod is 4200642
+req is 0.00632243
+num is 1
+prod is 4200642
+req is 0.00553808
+num is 1
+pre[j] at j= 1 is 4
+pre[j] at j= 2 is 40
+pre[j] at j= 3 is 33531676080
+prod is 3
+req is 3.57871e-09
+num is 2
+prod is 3
+req is 3.57871e-09
+num is 2
+prod is 3
+req is 8.94676e-10
+num is 1
+prod is 3
+req is 0.75
+num is 2
+prod is 3
+req is 0.75
+num is 2
+prod is 3
+req is 3.57871e-09
+num is 2
+prod is 3
+req is 8.94676e-10
+num is 1
+pre[j] at j= 1 is 60238
+pre[j] at j= 2 is 38626628572754
+pre[j] at j= 3 is -5326705246424211760
+pre[j] at j= 4 is -1744980088490248112
+pre[j] at j= 5 is -3195796026190839616
+pre[j] at j= 6 is -7119624135817165312
+prod is 140728761662376
+req is 1
+num is 3
+prod is 140728761662376
+req is 0.455414
+num is 3
+prod is 140728761662376
+req is 1
+num is 3
+pre[j] at j= 1 is 354353425
+pre[j] at j= 2 is 160707613693116275
+pre[j] at j= 3 is -590176697090701249
+prod is 7
+req is 1.28781e-08
+num is 2
+prod is 7
+req is 1.97543e-08
+num is 2
+prod is 7
+req is 7
+num is 3
+pre[j] at j= 1 is 8
+prod is 4200642
+req is 4.20064e+06
+num is 1
+prod is 4200642
+req is 4.20064e+06
+num is 1
+prod is 4200642
+req is 4.20064e+06
+num is 1
+prod is 4200642
+req is 4.20064e+06
+num is 1
+pre[j] at j= 1 is 8238
+pre[j] at j= 2 is 499066278
+pre[j] at j= 3 is 2495331390
+pre[j] at j= 4 is 1619302919841509460
+pre[j] at j= 5 is 1619302919841509460
+pre[j] at j= 6 is 8096514599207547300
+pre[j] at j= 7 is 7790074047875473964
+pre[j] at j= 8 is -2866595977958603688
+pre[j] at j= 9 is -8599787933875811064
+prod is 15324600
+req is 1.53246e+07
+num is 9
+prod is 15324600
+req is 1.08895e-07
+num is 3
+prod is 15324600
+req is 2.46194e-12
+num is 2
+prod is 15324600
+req is 5.1082e+06
+num is 8
+prod is 15324600
+req is 9.4637e-12
+num is 4
+prod is 15324600
+req is 3.15457e-12
+num is 3
+prod is 15324600
+req is 2.46194e-12
+num is 1
+pre[j] at j= 1 is 443036225
+pre[j] at j= 2 is 93348709945412350
+pre[j] at j= 3 is 5740288617368756696
+pre[j] at j= 4 is 367345145744999272
+pre[j] at j= 5 is 734690291489998544
+pre[j] at j= 6 is 6612212623409986896
+pre[j] at j= 7 is 2779787593040818144
+pre[j] at j= 8 is 1011769077576175392
+prod is 4201006
+req is 6.42905e-12
+num is 5
+prod is 4201006
+req is 6.18768e-10
+num is 5
+prod is 4201006
+req is 600144
+num is 7
+prod is 4201006
+req is 6.55064e-13
+num is 3
+prod is 4201006
+req is 6.18768e-10
+num is 5
+prod is 4201006
+req is 0.00948231
+num is 7
+pre[j] at j= 1 is 6
+pre[j] at j= 2 is 24
+pre[j] at j= 3 is 216
+pre[j] at j= 4 is 175110211800
+prod is 140728761662464
+req is 28931.7
+num is 2
+prod is 140728761662464
+req is 5.8637e+12
+num is 2
+prod is 140728761662464
+req is 6.51522e+11
+num is 1
+prod is 140728761662464
+req is inf
+num is 1
+prod is 140728761662464
+req is 6.51522e+11
+num is 1
+prod is 140728761662464
+req is inf
+num is 1
+prod is 140728761662464
+req is 2.34548e+13
+num is 3
+pre[j] at j= 1 is 91837
+pre[j] at j= 2 is 7354625358879
+prod is 4200642
+req is 4.20064e+06
+num is 2
+prod is 4200642
+req is 45.7402
+num is 1
+pre[j] at j= 1 is 158475375
+pre[j] at j= 2 is 2746883785196250
+pre[j] at j= 3 is -8078769269158710214
+pre[j] at j= 4 is -1211152662982316650
+pre[j] at j= 5 is -8478068640876216550
+pre[j] at j= 6 is 5669065032255443164
+pre[j] at j= 7 is -7895497503346839460
+pre[j] at j= 8 is -2099914223457512984
+pre[j] at j= 9 is -7257588713208743008
+prod is 15324600
+req is 1.00001
+num is 2
+prod is 15324600
+req is 1.08895e-07
+num is 3
+prod is 15324600
+req is -1.8969e-12
+num is 6
+prod is 15324600
+req is -2.17966e-10
+num is 3
+prod is 15324600
+req is -1.80756e-12
+num is 4
+pre[j] at j= 1 is 323416182
+pre[j] at j= 2 is 31518524016810
+pre[j] at j= 3 is 63037048033620
+pre[j] at j= 4 is 8514942372775066340
+pre[j] at j= 5 is 6330241972151766648
+pre[j] at j= 6 is 7207394289453160920
+pre[j] at j= 7 is 7207394289453160920
+prod is 4201006
+req is 2.98518e-08
+num is 2
+prod is 4201006
+req is 1.33287e-07
+num is 5
+prod is 4201006
+req is 4.20101e+06
+num is 6
+pre[j] at j= 1 is 786350967
+pre[j] at j= 2 is 6290807736
+pre[j] at j= 3 is 4022573515184927808
+pre[j] at j= 4 is -8737748905089275136
+pre[j] at j= 5 is -5287263958396347392
+pre[j] at j= 6 is -137597743806739456
+pre[j] at j= 7 is -412793231420218368
+pre[j] at j= 8 is -5009362379802155008
+prod is 4201006
+req is 2.98518e-08
+num is 2
+prod is 4201006
+req is 7.54133e-12
+num is 2
+pre[j] at j= 1 is 7
+pre[j] at j= 2 is 4177826275
+pre[j] at j= 3 is 478393198371118275
+prod is 9
+req is 2.25
+num is 1
+pre[j] at j= 1 is 6
+pre[j] at j= 2 is 48
+pre[j] at j= 3 is 336
+pre[j] at j= 4 is 261525997824
+pre[j] at j= 5 is 1830681984768
+pre[j] at j= 6 is 111993801100167168
+pre[j] at j= 7 is 2167855318377654272
+pre[j] at j= 8 is -961017148685780992
+prod is 4201006
+req is 0.00459386
+num is 7
+pre[j] at j= 1 is 56810
+prod is 4200642
+req is 4.20064e+06
+num is 1
+prod is 4200642
+req is 4.20064e+06
+num is 1
+prod is 4200642
+req is 4.20064e+06
+num is 1
+prod is 4200642
+req is 4.20064e+06
+num is 1
+prod is 4200642
+req is 4.20064e+06
+num is 1
+prod is 4200642
+req is 4.20064e+06
+num is 1
+prod is 4200642
+req is 4.20064e+06
+num is 1
+prod is 4200642
+req is 4.20064e+06
+num is 1
+prod is 4200642
+req is 4.20064e+06
+num is 1
+pre[j] at j= 1 is 526560593
+pre[j] at j= 2 is 38241463066625
+pre[j] at j= 3 is 1828247866289208000
+pre[j] at j= 4 is -3344788722202597376
+pre[j] at j= 5 is 6162182461652017152
+pre[j] at j= 6 is -5586307081476227072
+pre[j] at j= 7 is -864339091853737984
+pre[j] at j= 8 is 4696748764770533376
+pre[j] at j= 9 is 5342048603257569280
+pre[j] at j= 10 is 5353467781434048512
+prod is 140728761662464
+req is -6.50236e-05
+num is 1
+prod is 140728761662464
+req is 267260
+num is 9
+prod is 140728761662464
+req is -0.000125129
+num is 3
+prod is 140728761662464
+req is 1
+num is 3
+prod is 140728761662464
+req is inf
+num is 2
+prod is 140728761662464
+req is inf
+num is 3
+prod is 140728761662464
+req is -2.51917e-05
+num is 4
+prod is 140728761662464
+req is -1.69317e-05
+num is 1
+prod is 140728761662464
+req is 1.00776
+num is 2
+prod is 140728761662464
+req is 7.06442e-05
+num is 4
+pre[j] at j= 1 is 864938644
+pre[j] at j= 2 is 632837804536302624
+pre[j] at j= 3 is -3368523281232190976
+pre[j] at j= 4 is 6576778616329384448
+pre[j] at j= 5 is -4009595065772180992
+pre[j] at j= 6 is -8019190131544361984
+pre[j] at j= 7 is 5301050737948160000
+pre[j] at j= 8 is -8377975032641204224
+prod is 4201006
+req is 2.98518e-08
+num is 2
+prod is 4201006
+req is 7.14439e-13
+num is 3
+prod is 4201006
+req is -8.14561e-12
+num is 2
+prod is 4201006
+req is -1.01069e-12
+num is 3
+pre[j] at j= 1 is 976543791
+pre[j] at j= 2 is 765844655779738032
+prod is 4200642
+req is 4.20064e+06
+num is 2
+prod is 4200642
+req is 0.00535632
+num is 1
+prod is 4200642
+req is 4.20064e+06
+num is 2
+prod is 4200642
+req is 0.00430154
+num is 1
+prod is 4200642
+req is 4.20064e+06
+num is 2
+prod is 4200642
+req is 0.00430154
+num is 1
+pre[j] at j= 1 is 7
+pre[j] at j= 2 is 14
+pre[j] at j= 3 is 42
+prod is 3
+req is 1
+num is 2
+prod is 3
+req is 0.428571
+num is 2
+prod is 3
+req is 0.214286
+num is 1
+prod is 3
+req is 1
+num is 2
+prod is 3
+req is 0.142857
+num is 1
+prod is 3
+req is 1
+num is 2
+prod is 3
+req is 0.428571
+num is 2
+prod is 3
+req is 0.214286
+num is 1
+prod is 3
+req is 0.75
+num is 1
+pre[j] at j= 1 is 4526
+pre[j] at j= 2 is 48749794930
+pre[j] at j= 3 is 3874487451651610
+prod is 4
+req is 8.20516e-11
+num is 1
+prod is 4
+req is 1.112e-08
+num is 1
+prod is 4
+req is 4
+num is 3
+prod is 4
+req is 0.000883783
+num is 2
+prod is 4
+req is 1
+num is 1
+prod is 4
+req is 8.20516e-11
+num is 1
+prod is 4
+req is 4
+num is 3
+prod is 4
+req is 0.000883783
+num is 2
+prod is 4
+req is 1.112e-08
+num is 1
+pre[j] at j= 1 is 10
+prod is 4200642
+req is 4.20064e+06
+num is 1
+prod is 4200642
+req is 4.20064e+06
+num is 1
+prod is 4200642
+req is 4.20064e+06
+num is 1
+prod is 4200642
+req is 4.20064e+06
+num is 1
+prod is 4200642
+req is 4.20064e+06
+num is 1
+prod is 4200642
+req is 4.20064e+06
+num is 1
+prod is 4200642
+req is 4.20064e+06
+num is 1
+prod is 4200642
+req is 4.20064e+06
+num is 1
+prod is 4200642
+req is 4.20064e+06
+num is 1
+prod is 4200642
+req is 4.20064e+06
+num is 1
+pre[j] at j= 1 is 798637742
+pre[j] at j= 2 is 12750251551030
+pre[j] at j= 3 is 76501509306180
+pre[j] at j= 4 is 8027228846611127476
+pre[j] at j= 5 is -1434554974364951264
+pre[j] at j= 6 is 4101194330060038976
+pre[j] at j= 7 is -26699667526641536
+pre[j] at j= 8 is -240297007739773824
+pre[j] at j= 9 is -8380184347842102656
+pre[j] at j= 10 is -2594822760278953216
+prod is 140728761662464
+req is 3.43141e-05
+num is 4
+prod is 140728761662464
+req is 0.000176601
+num is 8
+prod is 140728761662464
+req is 22026.4
+num is 4
+prod is 140728761662464
+req is 3.34908e+07
+num is 7
+prod is 140728761662464
+req is 1.86433e-05
+num is 2
+prod is 140728761662464
+req is -3.51034e-05
+num is 3
+prod is 140728761662464
+req is 1.93728e-05
+num is 3
+prod is 140728761662464
+req is 0.000176601
+num is 8
+prod is 140728761662464
+req is 9.18319e+06
+num is 4
+prod is 140728761662464
+req is inf
+num is 8
+pre[j] at j= 1 is 672638975
+pre[j] at j= 2 is 61465749535500
+pre[j] at j= 3 is -684007588147939516
+pre[j] at j= 4 is -1004071264342797564
+pre[j] at j= 5 is 6890089633836538024
+prod is 15324448
+req is -7.17936e-12
+num is 1
+prod is 15324448
+req is 0.0261646
+num is 4
+prod is 15324448
+req is 2.49317e-07
+num is 3
+prod is 15324448
+req is 1.33582e-11
+num is 1
+prod is 15324448
+req is 1.48668e-09
+num is 2
+prod is 15324448
+req is 1
+num is 2
+prod is 15324448
+req is 0.0227826
+num is 4
+pre[j] at j= 1 is 4741
+pre[j] at j= 2 is 47410
+pre[j] at j= 3 is 284460
+pre[j] at j= 4 is 15739740720
+pre[j] at j= 5 is 550478213458580880
+pre[j] at j= 6 is -7892677046498246560
+pre[j] at j= 7 is 3041307184478740064
+pre[j] at j= 8 is 5883713402120368896
+prod is 4201006
+req is -3.61746e-12
+num is 1
+prod is 4201006
+req is 14.7684
+num is 5
+prod is 4201006
+req is 0.000210876
+num is 2
+prod is 4201006
+req is inf
+num is 4
+prod is 4201006
+req is 14.7684
+num is 5
+prod is 4201006
+req is 6.29652e-13
+num is 3
+prod is 4201006
+req is 11.0763
+num is 5
+prod is 4201006
+req is inf
+num is 2
+prod is 4201006
+req is 0.274137
+num is 6
+prod is 4201006
+req is 0.000210876
+num is 2
+pre[j] at j= 1 is 1
+pre[j] at j= 2 is 4
+prod is 4200642
+req is 1.05016e+06
+num is 1
+prod is 4200642
+req is 4.20064e+06
+num is 2
+pre[j] at j= 1 is 65322
+pre[j] at j= 2 is 1215838386
+pre[j] at j= 3 is 121248267205464
+prod is 3
+req is 2.46743e-09
+num is 1
+prod is 3
+req is 4.60534e-10
+num is 1
+prod is 3
+req is 3.0083e-05
+num is 2
+prod is 3
+req is 4.59263e-05
+num is 2
+prod is 3
+req is 3
+num is 3
+prod is 3
+req is 3.0083e-05
+num is 2
+prod is 3
+req is 3.0083e-05
+num is 2
+prod is 3
+req is 4.59263e-05
+num is 2
+prod is 3
+req is 3.0083e-05
+num is 2
+pre[j] at j= 1 is 548998691
+pre[j] at j= 2 is 90306924797511080
+pre[j] at j= 3 is -1388998430193304792
+pre[j] at j= 4 is -961417264089056368
+pre[j] at j= 5 is -7691338112712450944
+pre[j] at j= 6 is -1122471513521696768
+pre[j] at j= 7 is -3367414540565090304
+prod is 4201006
+req is inf
+num is 2
+prod is 4201006
+req is -8.46824e-13
+num is 1
+prod is 4201006
+req is -1.00816e-12
+num is 3
+prod is 4201006
+req is -3.02449e-12
+num is 4
+prod is 4201006
+req is 0.00255071
+num is 5
+pre[j] at j= 1 is 1
+pre[j] at j= 2 is 2
+pre[j] at j= 3 is 6
+prod is 8
+req is 2.66667
+num is 2
+prod is 8
+req is 8
+num is 2
+pre[j] at j= 1 is 32
+prod is 4200642
+req is 4.20064e+06
+num is 1
+prod is 4200642
+req is 4.20064e+06
+num is 1
+prod is 4200642
+req is 4.20064e+06
+num is 1
+prod is 4200642
+req is 4.20064e+06
+num is 1
+prod is 4200642
+req is 4.20064e+06
+num is 1
+prod is 4200642
+req is 4.20064e+06
+num is 1
+prod is 4200642
+req is 4.20064e+06
+num is 1
+prod is 4200642
+req is 4.20064e+06
+num is 1
+prod is 4200642
+req is 4.20064e+06
+num is 1
+pre[j] at j= 1 is 9
+pre[j] at j= 2 is 72
+pre[j] at j= 3 is 49104
+pre[j] at j= 4 is 4233255840
+pre[j] at j= 5 is 8466511680
+pre[j] at j= 6 is 471347638248960
+pre[j] at j= 7 is -9135172478126849024
+pre[j] at j= 8 is -8782374243215141888
+pre[j] at j= 9 is -3656840706387076096
+pre[j] at j= 10 is -1962371667491578880
+prod is 140728761662464
+req is 16621.8
+num is 5
+prod is 140728761662464
+req is 9.99165e-05
+num is 5
+prod is 140728761662464
+req is 0.111111
+num is 5
+prod is 140728761662464
+req is 1.40729e+14
+num is 10
+prod is 140728761662464
+req is 4.32705e-05
+num is 2
+prod is 140728761662464
+req is inf
+num is 7
+prod is 140728761662464
+req is 1.02035e+06
+num is 3
+prod is 140728761662464
+req is 2.44321e+11
+num is 3
+prod is 140728761662464
+req is 1.95457e+12
+num is 4
+prod is 140728761662464
+req is -1.6024e-05
+num is 2
+pre[j] at j= 1 is 772464261
+pre[j] at j= 2 is 3862321305
+pre[j] at j= 3 is 11586963915
+prod is 11
+req is 1.42401e-08
+num is 2
+prod is 11
+req is 11
+num is 3
+pre[j] at j= 1 is 73976509
+pre[j] at j= 2 is 30862520630880734
+pre[j] at j= 3 is -3146044562399140474
+prod is 4
+req is 4
+num is 3
+pre[j] at j= 1 is 4
+prod is 4200642
+req is 4.20064e+06
+num is 1
+prod is 4200642
+req is 4.20064e+06
+num is 1
+prod is 4200642
+req is 4.20064e+06
+num is 1
+pre[j] at j= 1 is 32530
+pre[j] at j= 2 is 130120
+pre[j] at j= 3 is 260240
+pre[j] at j= 4 is 114084854377600
+pre[j] at j= 5 is 228169708755200
+pre[j] at j= 6 is 868413911522291200
+pre[j] at j= 7 is 5210483469133747200
+pre[j] at j= 8 is -5868969708746668032
+pre[j] at j= 9 is 839834947469547520
+pre[j] at j= 10 is 3983336587816179712
+prod is 140728761662464
+req is 56141.8
+num is 8
+prod is 140728761662464
+req is -1.89745e-05
+num is 3
+prod is 140728761662464
+req is inf
+num is 8
+prod is 140728761662464
+req is 9.18319e+06
+num is 4
+prod is 140728761662464
+req is inf
+num is 8
+prod is 140728761662464
+req is -0.000520764
+num is 3
+prod is 140728761662464
+req is 128.692
+num is 4
+prod is 140728761662464
+req is inf
+num is 6
+prod is 140728761662464
+req is 1.82629e+09
+num is 9
+prod is 140728761662464
+req is 5.40765e+08
+num is 7
+pre[j] at j= 1 is 3
+pre[j] at j= 2 is 69708
+pre[j] at j= 3 is 26581320774852
+pre[j] at j= 4 is 79743962324556
+pre[j] at j= 5 is 3748045973216456556
+pre[j] at j= 6 is -6814596468545597368
+prod is 140728761662376
+req is 119725
+num is 4
+prod is 140728761662376
+req is -1.6294e-05
+num is 1
+prod is 140728761662376
+req is 3.06109e+06
+num is 1
+prod is 140728761662376
+req is 119725
+num is 4
+pre[j] at j= 1 is 47088
+pre[j] at j= 2 is 3773302704
+pre[j] at j= 3 is 1319003307735096672
+pre[j] at j= 4 is -5174414186331590176
+pre[j] at j= 5 is 8097915701046371264
+prod is 15324448
+req is 325.443
+num is 4
+pre[j] at j= 1 is 937233299
+pre[j] at j= 2 is 5623399794
+pre[j] at j= 3 is 3435836187142037778
+pre[j] at j= 4 is -5119392825692666110
+pre[j] at j= 5 is 6177131193263106572
+pre[j] at j= 6 is 8886508520125992024
+pre[j] at j= 7 is -7087136087259312512
+pre[j] at j= 8 is 1093101486235157504
+pre[j] at j= 9 is 3279304458705472512
+pre[j] at j= 10 is 8683499734429119488
+prod is 140728761662464
+req is inf
+num is 8
+prod is 140728761662464
+req is 1
+num is 3
+prod is 140728761662464
+req is 4.09591e-05
+num is 7
+prod is 140728761662464
+req is 1.60492e-05
+num is 4
+prod is 140728761662464
+req is 1.40729e+14
+num is 10
+prod is 140728761662464
+req is 9.18319e+06
+num is 4
+prod is 140728761662464
+req is 3.34908e+07
+num is 7
+prod is 140728761662464
+req is 9.18319e+06
+num is 4
+prod is 140728761662464
+req is 1.00776
+num is 2
+prod is 140728761662464
+req is 1.60492e-05
+num is 1
+pre[j] at j= 1 is 153334660
+pre[j] at j= 2 is 5196971631380
+pre[j] at j= 3 is 20787886525520
+pre[j] at j= 4 is 1271834385519657664
+pre[j] at j= 5 is -1788498598608918016
+pre[j] at j= 6 is 7715752482056043520
+pre[j] at j= 7 is 7771721880675492864
+pre[j] at j= 8 is 6833542824275288064
+pre[j] at j= 9 is -671889626926350336
+pre[j] at j= 10 is -3359448134631751680
+prod is 140728761662464
+req is 8.3505e-05
+num is 3
+prod is 140728761662464
+req is inf
+num is 7
+prod is 140728761662464
+req is inf
+num is 3
+prod is 140728761662464
+req is 2.40376e-05
+num is 2
+prod is 140728761662464
+req is 27.079
+num is 8
+prod is 140728761662464
+req is inf
+num is 3
+prod is 140728761662464
+req is 0.846219
+num is 2
+prod is 140728761662464
+req is 7.16133e-05
+num is 2
+prod is 140728761662464
+req is inf
+num is 5
+prod is 140728761662464
+req is -1.67657e-05
+num is 3
+pre[j] at j= 1 is 944464760
+pre[j] at j= 2 is 3777859040
+pre[j] at j= 3 is 1890222564035761760
+pre[j] at j= 4 is 5472067154959695232
+pre[j] at j= 5 is -3151388402436059008
+pre[j] at j= 6 is 7791561179731594112
+prod is 140728761662376
+req is -4.46561e-05
+num is 1
+prod is 140728761662376
+req is 1
+num is 3
+prod is 140728761662376
+req is -4.98537e-05
+num is 1
+prod is 140728761662376
+req is 3.08274e-05
+num is 3
+prod is 140728761662376
+req is 3.08274e-05
+num is 2
+prod is 140728761662376
+req is 7.44509e-05
+num is 3
+prod is 140728761662376
+req is 0.00018345
+num is 4
+prod is 140728761662376
+req is 7.44509e-05
+num is 3
+pre[j] at j= 1 is 185513955
+pre[j] at j= 2 is 1855139550
+pre[j] at j= 3 is 20168554038246900
+pre[j] at j= 4 is -7163983541995267028
+pre[j] at j= 5 is 1073570437442768092
+pre[j] at j= 6 is -1997948238521283088
+pre[j] at j= 7 is -5608142052447129104
+pre[j] at j= 8 is 1502879031350544368
+pre[j] at j= 9 is 1502879031350544368
+pre[j] at j= 10 is 7891822654522801936
+prod is 140728761662464
+req is 0.000118962
+num is 7
+pre[j] at j= 1 is 20031
+pre[j] at j= 2 is 4821755915328
+pre[j] at j= 3 is 9643511830656
+pre[j] at j= 4 is 96435118306560
+pre[j] at j= 5 is 3524607138986461440
+pre[j] at j= 6 is 6613951853889352192
+pre[j] at j= 7 is -5711644153323232256
+pre[j] at j= 8 is 1311811613739854848
+pre[j] at j= 9 is 5397531124324299776
+pre[j] at j= 10 is -7195886336275968000
+prod is 140728761662464
+req is 9.18319e+06
+num is 4
+prod is 140728761662464
+req is 2.12776e-05
+num is 4
+prod is 140728761662464
+req is 0.00793822
+num is 5
+prod is 140728761662464
+req is 0.00793822
+num is 5
+prod is 140728761662464
+req is -5.08758e-05
+num is 7
+prod is 140728761662464
+req is 1
+num is 3
+prod is 140728761662464
+req is 3.99275e-05
+num is 5
+prod is 140728761662464
+req is 4.99226e-05
+num is 5
+prod is 140728761662464
+req is 1.00776
+num is 2
+prod is 140728761662464
+req is 5.03103e-05
+num is 1
+pre[j] at j= 1 is 52457
+pre[j] at j= 2 is 47164490153421
+pre[j] at j= 3 is 2379920173141623660
+pre[j] at j= 4 is 4759840346283247320
+pre[j] at j= 5 is -7969922956349503960
+pre[j] at j= 6 is -8419151429667376832
+pre[j] at j= 7 is -6816199944095625152
+prod is 4201006
+req is -2.04596e-12
+num is 4
+prod is 4201006
+req is -5.40701e-13
+num is 1
+prod is 4201006
+req is 2.60215e-07
+num is 5
+prod is 4201006
+req is inf
+num is 2
+prod is 4201006
+req is -5.0146e-13
+num is 2
+prod is 4201006
+req is -3.92885e-12
+num is 2
+prod is 4201006
+req is -1.96442e-12
+num is 1
+pre[j] at j= 1 is 818348121
+pre[j] at j= 2 is 507533796666056025
+pre[j] at j= 3 is 4567804169994504225
+pre[j] at j= 4 is -4743331563726038941
+pre[j] at j= 5 is 458971478250778751
+pre[j] at j= 6 is -7482958382787794567
+pre[j] at j= 7 is 7536304359566240788
+pre[j] at j= 8 is -4679510054549494664
+prod is 4201006
+req is 3.34988e-10
+num is 5
+prod is 4201006
+req is -5.6141e-13
+num is 2
+prod is 4201006
+req is -6.46933e-13
+num is 2
+prod is 4201006
+req is -4.46906e-12
+num is 4
+pre[j] at j= 1 is 7
+prod is 4200642
+req is 4.20064e+06
+num is 1
+prod is 4200642
+req is 4.20064e+06
+num is 1
+prod is 4200642
+req is 4.20064e+06
+num is 1
+prod is 4200642
+req is 4.20064e+06
+num is 1
+prod is 4200642
+req is 4.20064e+06
+num is 1
+prod is 4200642
+req is 4.20064e+06
+num is 1
+prod is 4200642
+req is 4.20064e+06
+num is 1
+prod is 4200642
+req is 4.20064e+06
+num is 1
+pre[j] at j= 1 is 44694
+pre[j] at j= 2 is 777854376
+pre[j] at j= 3 is 5444980632
+pre[j] at j= 4 is 694622566186521336
+pre[j] at j= 5 is 758241856270880568
+pre[j] at j= 6 is 7654541084619464832
+pre[j] at j= 7 is 5721893499393911808
+prod is 4201006
+req is inf
+num is 4
+pre[j] at j= 1 is 192993418
+pre[j] at j= 2 is 182695184999074280
+pre[j] at j= 3 is 730780739996297120
+pre[j] at j= 4 is -2987577380941104320
+pre[j] at j= 5 is -6958633567651625152
+prod is 15324448
+req is 8.38799e-11
+num is 3
+prod is 15324448
+req is -2.03833e-12
+num is 1
+prod is 15324448
+req is 4.49906e-06
+num is 3
+prod is 15324448
+req is 4.49906e-06
+num is 3
+prod is 15324448
+req is -4.04031e-12
+num is 2
+prod is 15324448
+req is 2.097e-11
+num is 2
+pre[j] at j= 1 is 7
+pre[j] at j= 2 is 696360
+prod is 4200642
+req is 4.20064e+06
+num is 2
+prod is 4200642
+req is 42.226
+num is 1
+prod is 4200642
+req is 4.20064e+06
+num is 2
+prod is 4200642
+req is 4.20064e+06
+num is 2
+pre[j] at j= 1 is 3
+pre[j] at j= 2 is 3
+pre[j] at j= 3 is 2219469144
+pre[j] at j= 4 is 11097345720
+pre[j] at j= 5 is 3127483023661494960
+pre[j] at j= 6 is -4115321145300090928
+pre[j] at j= 7 is -2129861652790903024
+pre[j] at j= 8 is 3537712504173230448
+pre[j] at j= 9 is -209079497929144688
+pre[j] at j= 10 is 8734562912305662464
+prod is 140728761662464
+req is -2.06925e-05
+num is 3
+prod is 140728761662464
+req is -2.06925e-05
+num is 3
+prod is 140728761662464
+req is 4.89742e-05
+num is 3
+prod is 140728761662464
+req is -0.000211689
+num is 2
+prod is 140728761662464
+req is 1.75911e+13
+num is 1
+prod is 140728761662464
+req is inf
+num is 2
+prod is 140728761662464
+req is 0.333333
+num is 2
+prod is 140728761662464
+req is 5.8637e+12
+num is 4
+prod is 140728761662464
+req is 1.00776
+num is 2
+prod is 140728761662464
+req is 4.49975e-05
+num is 5
+pre[j] at j= 1 is 475623314
+pre[j] at j= 2 is 52280945589602484
+pre[j] at j= 3 is 407698086607193048
+pre[j] at j= 4 is 3261584692857544384
+pre[j] at j= 5 is 5426881233358552000
+pre[j] at j= 6 is -8104829194605251840
+pre[j] at j= 7 is -3630657825607155968
+pre[j] at j= 8 is 9088793883074036224
+pre[j] at j= 9 is 8012168652828119552
+pre[j] at j= 10 is 501116872387703296
+prod is 140728761662464
+req is -1.73636e-05
+num is 4
+prod is 140728761662464
+req is 1
+num is 3
+prod is 140728761662464
+req is 4.31474e-05
+num is 6
+prod is 140728761662464
+req is 1.75644e-05
+num is 1
+prod is 140728761662464
+req is 4.31474e-05
+num is 6
+prod is 140728761662464
+req is 9.18319e+06
+num is 4
+prod is 140728761662464
+req is 1.40729e+14
+num is 10
+prod is 140728761662464
+req is 36985.4
+num is 4
+prod is 140728761662464
+req is 1.8637e-05
+num is 4
+prod is 140728761662464
+req is -2.16868e-05
+num is 2
+pre[j] at j= 1 is 457466478
+pre[j] at j= 2 is 47045972911203714
+pre[j] at j= 3 is -2421776044380192374
+pre[j] at j= 4 is 5833114894382439014
+pre[j] at j= 5 is -6347959388619694246
+pre[j] at j= 6 is -9040095189839057638
+pre[j] at j= 7 is -1381729941423472608
+pre[j] at j= 8 is -5526919765693890432
+pre[j] at j= 9 is 684358277912491904
+prod is 15324600
+req is -1.69518e-12
+num is 3
+pre[j] at j= 1 is 4
+pre[j] at j= 2 is 47248
+pre[j] at j= 3 is 2585457808
+pre[j] at j= 4 is 240463088890848
+pre[j] at j= 5 is 6174715275759791616
+prod is 15324448
+req is 0.0189163
+num is 4
+prod is 15324448
+req is 4.00362e-07
+num is 2
+prod is 15324448
+req is 1
+num is 2
+prod is 15324448
+req is 0.999997
+num is 3
+prod is 15324448
+req is 0.999997
+num is 3
+pre[j] at j= 1 is 55391
+pre[j] at j= 2 is 1478828918
+pre[j] at j= 3 is 4436486754
+pre[j] at j= 4 is 230085076035948
+pre[j] at j= 5 is 6708680474314190364
+pre[j] at j= 6 is 3389141480731716056
+pre[j] at j= 7 is -8360347320585007872
+pre[j] at j= 8 is 3452098865079071744
+pre[j] at j= 9 is -3948896492277998592
+pre[j] at j= 10 is 63794125672743936
+prod is 140728761662464
+req is -1.65264e-05
+num is 5
+prod is 140728761662464
+req is inf
+num is 7
+prod is 140728761662464
+req is inf
+num is 2
+prod is 140728761662464
+req is 0.000116659
+num is 7
+prod is 140728761662464
+req is 165.789
+num is 3
+prod is 140728761662464
+req is 3.71317e-05
+num is 2
+prod is 140728761662464
+req is 3.51321e-05
+num is 1
+prod is 140728761662464
+req is -5.85321e-05
+num is 1
+prod is 140728761662464
+req is 95162.3
+num is 8
+prod is 140728761662464
+req is -1.68329e-05
+num is 3
+pre[j] at j= 1 is 9
+pre[j] at j= 2 is 3323250684
+pre[j] at j= 3 is 252121736392344
+pre[j] at j= 4 is -3914699309791235800
+pre[j] at j= 5 is 8473078676237524496
+pre[j] at j= 6 is 7355772429060780480
+prod is 140728761662376
+req is -4.20205e-05
+num is 2
+prod is 140728761662376
+req is 1.66089e-05
+num is 1
+prod is 140728761662376
+req is 2.84611e+08
+num is 4
+prod is 140728761662376
+req is -3.59488e-05
+num is 2
+prod is 140728761662376
+req is -4.20205e-05
+num is 1
+prod is 140728761662376
+req is 1
+num is 3
+prod is 140728761662376
+req is 0.558178
+num is 3
+prod is 140728761662376
+req is 0.770781
+num is 3
+pre[j] at j= 1 is 2
+pre[j] at j= 2 is 44334
+pre[j] at j= 3 is 88668
+pre[j] at j= 4 is 5486864508
+pre[j] at j= 5 is 798204275430586380
+pre[j] at j= 6 is -5391593402812585968
+pre[j] at j= 7 is -5778509234272031280
+prod is 4201006
+req is 1.49259e-08
+num is 1
+prod is 4201006
+req is 5.26307e-12
+num is 2
+prod is 4201006
+req is 2.98518e-08
+num is 2
+prod is 4201006
+req is 25.4529
+num is 5
+prod is 4201006
+req is inf
+num is 2
+prod is 4201006
+req is 0.000574118
+num is 3
+prod is 4201006
+req is -7.0385e-13
+num is 2
+prod is 4201006
+req is -7.79177e-13
+num is 1
+prod is 4201006
+req is 2.1005e+06
+num is 6
+prod is 4201006
+req is 6.73339e-13
+num is 3
+pre[j] at j= 1 is 59859
+pre[j] at j= 2 is 3005280954
+pre[j] at j= 3 is 1289538613135728072
+pre[j] at j= 4 is 6447693065678640360
+pre[j] at j= 5 is 2354731795005214736
+pre[j] at j= 6 is -6250829888873894944
+pre[j] at j= 7 is 3622160488781629568
+pre[j] at j= 8 is 3622160488781629568
+pre[j] at j= 9 is -4533047421745409280
+pre[j] at j= 10 is 2775284838653139456
+prod is 140728761662464
+req is -4.32274e-05
+num is 2
+prod is 140728761662464
+req is 0.000145723
+num is 1
+prod is 140728761662464
+req is 1.75911e+13
+num is 5
+prod is 140728761662464
+req is 3.88522e-05
+num is 3
+prod is 140728761662464
+req is 0.000109131
+num is 7
+prod is 140728761662464
+req is 1.68356e-05
+num is 1
+prod is 140728761662464
+req is 1.55876e-05
+num is 1
+prod is 140728761662464
+req is inf
+num is 8
+prod is 140728761662464
+req is 46827.2
+num is 8
+prod is 140728761662464
+req is 2.93876e+08
+num is 4
+pre[j] at j= 1 is 9371
+pre[j] at j= 2 is 1414122695940
+pre[j] at j= 3 is 5656490783760
+pre[j] at j= 4 is 140405414234490720
+pre[j] at j= 5 is -5169124968996996928
+pre[j] at j= 6 is 4443844435080918720
+pre[j] at j= 7 is -5115210768466795456
+pre[j] at j= 8 is 6172538658613824064
+pre[j] at j= 9 is -1595873976871368512
+pre[j] at j= 10 is 2488004304995866496
+prod is 140728761662464
+req is inf
+num is 3
+prod is 140728761662464
+req is inf
+num is 8
+prod is 140728761662464
+req is 3.1099
+num is 2
+prod is 140728761662464
+req is 1.50175e+10
+num is 9
+prod is 140728761662464
+req is 0.0010023
+num is 6
+prod is 140728761662464
+req is -8.23851e-05
+num is 3
+prod is 140728761662464
+req is 0.000106712
+num is 5
+prod is 140728761662464
+req is 99.5167
+num is 8
+prod is 140728761662464
+req is 99.5167
+num is 8
+prod is 140728761662464
+req is 3.34908e+07
+num is 7
+pre[j] at j= 1 is 8
+pre[j] at j= 2 is 3334985992
+pre[j] at j= 3 is 2875330352104624856
+pre[j] at j= 4 is -3125703363515730840
+pre[j] at j= 5 is -6558882834416295104
+pre[j] at j= 6 is -1110212757230373824
+prod is 140728761662376
+req is 1
+num is 3
+prod is 140728761662376
+req is 4.89435e-05
+num is 3
+prod is 140728761662376
+req is 2.20368e-05
+num is 1
+prod is 140728761662376
+req is 1
+num is 1
+prod is 140728761662376
+req is -2.14562e-05
+num is 1
+prod is 140728761662376
+req is 4.06201e-05
+num is 1
+prod is 140728761662376
+req is 1.59649e+09
+num is 5
+pre[j] at j= 1 is 1
+pre[j] at j= 2 is 59100
+pre[j] at j= 3 is 48091053767400
+pre[j] at j= 4 is 432819483906600
+pre[j] at j= 5 is 3322733650567075720
+pre[j] at j= 6 is 479357980510552072
+pre[j] at j= 7 is 6698197671928863784
+pre[j] at j= 8 is -8452848517626608360
+pre[j] at j= 9 is 6164188153825339584
+pre[j] at j= 10 is 2252816088287555072
+prod is 140728761662464
+req is 2.38267e-05
+num is 4
+pre[j] at j= 1 is 93370
+pre[j] at j= 2 is 14732875549130
+pre[j] at j= 3 is 58931502196520
+pre[j] at j= 4 is 2208236609558377992
+pre[j] at j= 5 is -4246665062718019512
+pre[j] at j= 6 is -4076506276967961664
+pre[j] at j= 7 is -6930247308902316096
+pre[j] at j= 8 is 315309884982656832
+prod is 4201006
+req is inf
+num is 4
+prod is 4201006
+req is inf
+num is 4
+prod is 4201006
+req is 5.63724e-13
+num is 2
+pre[j] at j= 1 is 4
+pre[j] at j= 2 is 32
+pre[j] at j= 3 is 64
+pre[j] at j= 4 is 3058112
+pre[j] at j= 5 is 12232448
+pre[j] at j= 6 is 12232448
+prod is 140728761662376
+req is 0.25
+num is 2
+prod is 140728761662376
+req is 0.25
+num is 3
+prod is 140728761662376
+req is 9.18326e+06
+num is 2
+prod is 140728761662376
+req is 9.18326e+06
+num is 2
+prod is 140728761662376
+req is 1.40729e+14
+num is 6
+prod is 140728761662376
+req is 0.03125
+num is 1
+pre[j] at j= 1 is 3135
+pre[j] at j= 2 is 15675
+pre[j] at j= 3 is 978480525
+pre[j] at j= 4 is 1956961050
+pre[j] at j= 5 is 13698727350
+pre[j] at j= 6 is 1023445619045850
+pre[j] at j= 7 is 4093782476183400
+pre[j] at j= 8 is 28656477333283800
+pre[j] at j= 9 is -6801599997936857408
+pre[j] at j= 10 is 1129873005167325696
+prod is 140728761662464
+req is 0.0342274
+num is 4
+prod is 140728761662464
+req is -3.06471e-05
+num is 3
+prod is 140728761662464
+req is 0.00491089
+num is 2
+prod is 140728761662464
+req is inf
+num is 5
+prod is 140728761662464
+req is -1.57299e-05
+num is 1
+prod is 140728761662464
+req is 0.00938516
+num is 1
+prod is 140728761662464
+req is inf
+num is 7
+prod is 140728761662464
+req is 4.48896e+10
+num is 9
+prod is 140728761662464
+req is inf
+num is 8
+prod is 140728761662464
+req is 0.00491089
+num is 2
+pre[j] at j= 1 is 55575
+pre[j] at j= 2 is 111150
+prod is 4200642
+req is 75.5851
+num is 1
+pre[j] at j= 1 is 85197
+pre[j] at j= 2 is 425985
+pre[j] at j= 3 is 17375928150
+pre[j] at j= 4 is 52127784450
+pre[j] at j= 5 is 2084485844586600
+pre[j] at j= 6 is 16675886756692800
+pre[j] at j= 7 is 8800468910737915712
+prod is 4201006
+req is 9.86186
+num is 5
+prod is 4201006
+req is -6.50605e-13
+num is 4
+prod is 4201006
+req is 49.3093
+num is 6
+prod is 4201006
+req is 4.20101e+06
+num is 7
+prod is 4201006
+req is 1.17347e-05
+num is 2
+prod is 4201006
+req is -1.00439e-12
+num is 1
+prod is 4201006
+req is 0.00525458
+num is 6
+prod is 4201006
+req is 9.86186
+num is 5
+pre[j] at j= 1 is 289136647
+pre[j] at j= 2 is 258433777549519182
+pre[j] at j= 3 is 5797876531086107724
+prod is 8
+req is 1.16993e-08
+num is 2
+prod is 8
+req is 8
+num is 3
+pre[j] at j= 1 is 442076042
+pre[j] at j= 2 is 3094532294
+pre[j] at j= 3 is 1436896502500614708
+pre[j] at j= 4 is -763697429606500796
+prod is 140728761662464
+req is 318336
+num is 3
+prod is 140728761662464
+req is 4.22596e+09
+num is 3
+prod is 140728761662464
+req is 9.79394e-05
+num is 1
+prod is 140728761662464
+req is 3.34988e+07
+num is 1
+pre[j] at j= 1 is 10
+pre[j] at j= 2 is 6870
+pre[j] at j= 3 is 242036970
+pre[j] at j= 4 is 42977000019057510
+pre[j] at j= 5 is 42977000019057510
+pre[j] at j= 6 is 429770000190575100
+pre[j] at j= 7 is 7190372249505749296
+pre[j] at j= 8 is 4450794176400035200
+prod is 4201006
+req is 611.5
+num is 6
+prod is 4201006
+req is 0.000145526
+num is 1
+prod is 4201006
+req is -1.45114e-12
+num is 2
+prod is 4201006
+req is 2.98518e-08
+num is 2
+prod is 4201006
+req is 0.000145526
+num is 1
+prod is 4201006
+req is 0.999761
+num is 3
+prod is 4201006
+req is 2.98518e-09
+num is 1
+prod is 4201006
+req is 0.999761
+num is 3
+prod is 4201006
+req is 4.20101e+06
+num is 8
+prod is 4201006
+req is -2.63652e-11
+num is 3
+pre[j] at j= 1 is 334240033
+pre[j] at j= 2 is 2673920264
+pre[j] at j= 3 is 603463178714229048
+pre[j] at j= 4 is -7879654072695023712
+pre[j] at j= 5 is -7697000360431534848
+pre[j] at j= 6 is 3052743352846481920
+pre[j] at j= 7 is 9158230058539445760
+pre[j] at j= 8 is -7329009271924335616
+pre[j] at j= 9 is -7080567484126910464
+pre[j] at j= 10 is 9039710037318950912
+prod is 140728761662464
+req is 1.75911e+13
+num is 5
+prod is 140728761662464
+req is 0.000187831
+num is 5
+prod is 140728761662464
+req is inf
+num is 4
+prod is 140728761662464
+req is 1.00776
+num is 2
+prod is 140728761662464
+req is 0.1002
+num is 6
+prod is 140728761662464
+req is inf
+num is 8
+prod is 140728761662464
+req is 0.000154588
+num is 7
+prod is 140728761662464
+req is -6.9964e-05
+num is 2
+prod is 140728761662464
+req is 1.40729e+14
+num is 10
+prod is 140728761662464
+req is 0.000233202
+num is 7
