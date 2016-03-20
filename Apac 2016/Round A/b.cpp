@@ -7,7 +7,6 @@ int main(){
 	ofstream out ("./bLarge.out");
 	ll t;
 	inp>>t;
-	//cout<<"yo bbwc";
 	for(int i=1; i<=t; i++){
 		out<<"Case #"<<i<<":"<<endl;
 		ll n, m;
@@ -16,7 +15,6 @@ int main(){
 		for(int j=0; j<n; j++){
 			ll x;
 			inp>>x;
-			//cout<<x<<endl;
 			arr.push_back(x);
 		}
 
@@ -30,11 +28,12 @@ int main(){
 				// there is no need to multiply fully
 				ans *= pow(arr[k],(1/num)) ;
 			}
-			
-			cout<<ans<<endl;
+						
 			out.precision(9);
-
 			out<<fixed<<ans<<endl; 
+			
+			// This following alone won't work
+			//out<<setprecision(9)<<endl;
 		}
 	}
 }
