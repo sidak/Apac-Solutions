@@ -12,13 +12,13 @@ ll INF = 100000000000000000;
 vector< pair< pair<ll, ll> , ll> > edges;
 int main(){
 
-	ifstream inp("./csmall.in");
-	ofstream out ("./csmall.out");
+	ifstream inp("./cLarge.in");
+	ofstream out ("./cLarge.out");
 	
 	ll t;
 	inp>>t;
 	for(ll a=1; a<=t; a++){
-		out<<"Case #"<<a<<": "<<endl;
+		out<<"Case #"<<a<<":"<<endl;
 
 		ll n,m;
 		inp>>n>>m;
@@ -28,7 +28,7 @@ int main(){
 				else arr[i][j]=INF;
 			}
 		}
-
+		edges.clear();
 		for(ll i=0; i<m; i++){
 			ll u,v,c;
 			inp>>u>>v>>c;
@@ -63,7 +63,7 @@ int main(){
 					}				
 				}
 			}
-			if(check){
+			if(!check){
 				out<<k<<endl;
 			}
 		}
