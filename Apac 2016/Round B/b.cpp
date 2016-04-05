@@ -1,4 +1,5 @@
 #include<bits/stdc++.h>
+/*
 struct pairhash {
 public:
   template <typename T, typename U>
@@ -7,7 +8,7 @@ public:
     return std::hash<T>()(x.first) ^ std::hash<U>()(x.second);
   }
 };
-
+*/
 using namespace std;
 
 #define pb push_back
@@ -46,7 +47,9 @@ int main(){
 			inp>>x;
 			arr3.pb(x);
 		}
-		unordered_map < pair< ll,ll > , bool , pairhash> outer;
+		// if unordered_map is needed for pair of ll's and bool, uncomment the lines before namespace std and after includes
+		//unordered_map < pair< ll,ll > , bool , pairhash> outer;
+		map < pair< ll,ll > , bool> outer;
 		for(int i=0; i<n1; i++){
 			for(int j=0; j<n3; j++){
 				ll gcd = calcGcd(arr1[i], arr3[j]);
