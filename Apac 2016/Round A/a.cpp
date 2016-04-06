@@ -3,6 +3,7 @@ using namespace std;
 typedef long long ll;
 
 ll pow2(ll x){
+	if(x==0) return 1LL;
 	ll half = pow2(x/2);
 	ll ans = half;
 	ans *= half;
@@ -12,41 +13,30 @@ ll pow2(ll x){
 	return ans;
 }
 
-ll bs(ll x, ll l, ll r){
-	while(l<=r){
-		
-	}
-}
 
 int findChar(ll k, ll n, bool op){
-
-	if()
-	ll prevExp = bs(k, 0, n);
-	ll prev = pow2(prevExp) - 1;
-	ll idx = k - prev -1 ;
-	
-	// if prevExp == 0
-	ll left = pow2(prevExp-1) -1 ;
-	if(idx<=left){
-		return findChar(k, prevExp, op);
+ 	
+	ll power = pow2(n);
+	if(k<power){
+		return findChar(k, n-1, op);
 	}
-	else if (idx == (left+1)){
-		if(op){
-			return 1;
-		}
-		else return 0;
+	else if (k>power){
+		return findChar(pow2(n+1)-k, n-1, !op);
 	}
 	else{
-		return findChar(k-left -1, prevExp, !op);
+		return op;
 	}
 }
 
 int main(){
+	ifstream inp("./aLarge.in");
+	ofstream out("./aLarge.out");
 	int t;
+	inp>>t;
 	for(int a = 1; a<=t; a++){
-		cout<<"Case #"<<a<<":"<<endl;
+		out<<"Case #"<<a<<": ";
 		ll k;
-		cin>>k;
-		cout<<findChar(k, 60, false)<<endl;
+		inp>>k;
+		out<<findChar(k, 60, false)<<endl;
 	}
 }
